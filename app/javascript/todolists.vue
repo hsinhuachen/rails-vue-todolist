@@ -16,7 +16,7 @@
 
     <hr />
 
-    <table>
+    <table width="50%">
       <thead>
         <tr>
           <th>#</th>
@@ -51,10 +51,6 @@ export default {
       list: [
         { id: 1, item: "kevin", duedate: '0000-00-00' },
         { id: 2, item: "KKK", duedate: '0000-00-00' }
-      ],
-      myArray: [
-        {id: 1, name: "1111"},
-        {id: 2, name: "2222"}
       ]
     }
   },
